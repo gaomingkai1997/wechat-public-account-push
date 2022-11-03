@@ -36,7 +36,7 @@ const USER_CONFIG = {
           type: '*生日', name: '自己', year: '1997', date: '12-03',
         },
         {
-          type: '*生日', name: '最爱的老公', year: '1997', date: '01-30',
+          type: '生日', name: '最爱的老公', year: '1997', date: '03-08',
         },
         {
           type: '生日', name: '呆妈妈', year: '1974', date: '09-28',
@@ -71,7 +71,7 @@ const USER_CONFIG = {
           type: '*生日', name: '自己', year: '1997', date: '12-03',
         },
         {
-          type: '*生日', name: '最爱的老公', year: '1997', date: '01-30',
+           type: '生日', name: '最爱的老公', year: '1997', date: '03-08',
         },
         {
           type: '生日', name: '呆妈妈', year: '1974', date: '09-28',
